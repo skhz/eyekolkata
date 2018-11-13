@@ -42,7 +42,9 @@
             <a href="#" class="nav-link">Get In Touch</a>
           </li>
           <li class="nav-item help-line bg-success rounded">
-            <a href="tel:+919836035033" class="nav-link text-white"> +91-98360 35033 <i class="fas fa-phone"></i></a>
+            <a href="tel:+919836035033" class="nav-link text-white"> +91-98360 35033
+              <i class="fas fa-phone"></i>
+            </a>
           </li>
         </ul>
       </div>
@@ -54,11 +56,7 @@
 
   <section id="about">
     <div class="container">
-      <div class="row">
-        <div class="col">
-          <img src="img/aboutusheader.jpg" width="100%" class="img-fluid" alt="">
-        </div>
-      </div>
+
 
       <div class="row">
 
@@ -124,10 +122,10 @@
         <h1 class="display-4">Latest & Modern Technique Of
           <span class="font-weight-bold">Phaco Surgery</span>
         </h1>
-        <p class="lead">Phaco operation can be done at any stage of cataract. You can undergo phaco operation whenever it starts hampering your day
-            to day activities. In phaco surgery, it is better to get operated at early stage of cataract, because at this
-            stage the cataract is soft and it emulsifies very easily with little ultra sonic energy, which is beneficial
-            for your eyes.</p>
+        <p class="lead">Phaco operation can be done at any stage of cataract. You can undergo phaco operation whenever it starts hampering
+          your day to day activities. In phaco surgery, it is better to get operated at early stage of cataract, because
+          at this stage the cataract is soft and it emulsifies very easily with little ultra sonic energy, which is beneficial
+          for your eyes.</p>
         <h3 class="mt-1">
           <span class="badge badge-secondary">painless</span>
           <span class="badge badge-secondary">bloodless</span>
@@ -237,17 +235,21 @@
         </div>
       </div>
 
-     
+
 
       <div class="row">
         <div class="col-lg-6">
-            <div class="bd-callout bd-callout-warning">
-                Phacoemulsification has evolved over the past decade from a technology that focused mainly on sheer power, high flow and high vacuum to a sophisticated methodology that complements small-incision cataract surgery. As incision size decreases, safety, efficiency and ease of the procedure become more important to surgeons. <span class="font-weight-bold"> Please follow the operation slide show to get the view clear.</span>
-              </div>
+          <div class="bd-callout bd-callout-warning">
+            Phacoemulsification has evolved over the past decade from a technology that focused mainly on sheer power, high flow and
+            high vacuum to a sophisticated methodology that complements small-incision cataract surgery. As incision size
+            decreases, safety, efficiency and ease of the procedure become more important to surgeons.
+            <span
+              class="font-weight-bold"> Please follow the operation slide show to get the view clear.</span>
+          </div>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-6">
           <div id="slider4" class="carousel slide mb-5" data-ride="carousel">
-            
+
             <div class="carousel-inner">
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="img/ot/b1.jpg" alt="First Slide">
@@ -307,7 +309,7 @@
             </a>
           </div>
         </div>
-        
+
 
 
       </div>
@@ -447,7 +449,8 @@
     <div class="container ">
       <div class="row ">
         <div class="col-lg-12 mb-4">
-          <img width="100%" src="img/map.png" alt="">
+          <!-- <img width="100%" src="img/map.png" alt=""> -->
+          <div id="map"></div>
         </div>
       </div>
     </div>
@@ -460,15 +463,27 @@
         <div class="col-lg-12">
           Copyright © 2018 - All Rights Reserved.
         </div>
-        
 
-        
-        
+
+
+
       </div>
     </div>
   </footer>
-
-
+  <script>
+    // Initialize and add the map
+    function initMap() {
+      // The location of Uluru
+      var uluru = { lat: 22.516220, lng: 88.402640 };
+      // The map, centered at Uluru
+      var map = new google.maps.Map(
+        document.getElementById('map'), { zoom: 15, center: uluru, styles:[{"elementType":"geometry","stylers":[{"color":"#f5f5f5"}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"elementType":"labels.text.stroke","stylers":[{"color":"#f5f5f5"}]},{"featureType":"administrative.land_parcel","elementType":"labels.text.fill","stylers":[{"color":"#bdbdbd"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"poi","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"poi.park","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#ffffff"}]},{"featureType":"road.arterial","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#dadada"}]},{"featureType":"road.highway","elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"featureType":"road.local","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"transit.station","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#c9c9c9"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]}] });
+      // The marker, positioned at Uluru
+      var marker = new google.maps.Marker({ position: uluru, map: map });
+    }
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTJyQ9KnEtlrM1R5VBYQ2wjB7ghqVe48k&callback=initMap">
+  </script>
   <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
