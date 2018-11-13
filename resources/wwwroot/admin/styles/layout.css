@@ -1,0 +1,13 @@
+@import 'core.css';
+
+@import 'skin_clean.css';
+ 
+@import 'plugins.css';
+@import 'css3.css';
+/*Message styles :: Created By Ranjit*/
+.message{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; font-style:normal; display:block; width:auto; height:auto; padding:5px; background:#FFFDC7; text-align:left; min-height:40px; }
+.message img{ border:0px; padding:0px; margin:0px 3px 0px 3px; height:12px; width:12px; }
+.error_msg{	color:#9B0000; border:1px solid #9B0000; background:#FFFDC7 url(../images/err-big.png) no-repeat right bottom; }
+.warn_msg{ color:#F57900; border:1px solid #F57900;  background:#FFFDC7 url(../images/warn-big.png) no-repeat right bottom; }
+.info_msg{ color:#79A80C; border:1px groove #98C11A; background:#FFFDC7 url(../images/info-big.png) no-repeat right bottom;}
+.alrt_msg{ color:#EE8930; border:1px solid #EE8930; background:#FFFDC7 url(../images/alrt-big.png) no-repeat right bottom; }

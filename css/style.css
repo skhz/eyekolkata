@@ -1,0 +1,81 @@
+body{
+    font-family: 'Mukta Mahee', sans-serif;
+    font-weight: 100;
+}
+
+
+.primary-text-color{
+    color: #fff;
+}
+.primary-bg-color{
+    background: #4e4e4e;
+}
+
+.navbar {
+    box-shadow: 2px 2px 5px #4e4e4e;
+    opacity: 0.9;
+    background: #fff; }
+
+nav a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.bg-light{
+    background-color :#EBE9E9 !important;
+ }
+ul li a{
+    color: #000 !important;
+    border-bottom: 1px solid #EBE9E9;
+}
+
+.fas{
+    
+}
+
+footer{
+    border-top: 1px solid #4e4e4e;
+    padding-top: 10px;
+}
+
+
+#surgery ol li{
+    padding: 5px; 
+    font-size: 18px;
+}
+
+.jumbotron{
+    padding: 4rem 2rem 2rem;
+}
+
+#surgery .testimonial{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+
+.bd-callout-warning {
+    border-left-color: #4e4e4e !important;
+}
+.bd-callout {
+    font-size: 18px;
+    font-weight: 100;
+    
+    padding: 1.25rem;
+    
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    
+}
+
+.help-line {
+
+}
+@media (max-width: 576px) {
+    #surgery h3 button{
+        padding: 5px 5px;
+        font-size: 9px !important;
+        display: inline;
+    }
+}
+  
