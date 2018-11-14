@@ -3,6 +3,62 @@ body{
     font-weight: 100;
 }
 
+/* Banner */
+#banner-section{
+    background: url('../img/banner-home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    color: #000;
+}
+
+#banner-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background-color: rgba(0,0,0,0);
+}
+
+#banner-section .banner-innder{
+    padding-top: 120px;
+}
+
+#banner-section .fas{
+    color: #fff;
+    background: #4e4e4e;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#banner-section .d-flex{
+    font-size: 20px;
+    font-weight: lighter;
+}
+#banner-section .card { background-color: rgba(255, 255, 255, 0.9); border-radius: 5px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #home{
     padding-top: 100px;
 }
