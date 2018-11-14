@@ -3,7 +3,25 @@ body{
     font-weight: 100;
 }
 
+#home{
+    padding-top: 100px;
+}
 
+#home img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+    color: #FFF;
+}
+ol { padding-left: 1em; }
+.card{
+    border: none !important;
+}
+.gray-effect{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
 .primary-text-color{
     color: #fff;
 }
@@ -47,8 +65,8 @@ footer{
     padding: 4rem 2rem 2rem;
 }
 
-#surgery .testimonial{
-    font-size: 20px;
+.testimonial{
+    font-size: 20px !important;
     letter-spacing: 1px;
 }
 
@@ -73,8 +91,10 @@ footer{
 }
 
 #map {
-height: 400px;  /* The height is 400 pixels */
-width: 100%;  /* The width is the width of the web page */
+    
+    height: 246px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+
 }
 @media (max-width: 576px) {
     #surgery h3 button{
