@@ -1,274 +1,85 @@
-body{
-    font-family: 'Mukta Mahee', sans-serif;
-    font-weight: 100;
-}
+body{ font-family: 'Mukta Mahee', sans-serif; font-weight: 100; font-size: 1.1rem; }
 
+/*.heading{ line-height: 55px; }*/
 /* Banner */
-#banner-section{
-    background: url('../img/banner-home.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    min-height: 700px;
-    color: #000;
-}
-
-#banner-section .dark-overlay{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    min-height: 700px;
-    background-color: rgba(0,0,0,0);
-}
-
-#banner-section .banner-innder{
-    padding-top: 120px;
-}
-
-#banner-section .fas{
-    color: #fff;
-    background: #4e4e4e;
-    padding: 5px;
-    border-radius: 5px;
-}
-
-#banner-section .d-flex{
-    font-size: 20px;
-    font-weight: lighter;
-}
+#banner-section{ background: url('../img/banner-home.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; min-height: 700px; color: #000; }
+#banner-section .dark-overlay{ position: absolute; top: 0; left: 0; width: 100%; min-height: 700px; background-color: rgba(0,0,0,0); }
+#banner-section .banner-innder{ padding-top: 120px; }
+#banner-section .fas{ color: #fff; background: #4e4e4e; padding: 5px; border-radius: 5px; }
+#banner-section .d-flex{ font-size: 20px; font-weight: lighter; }
 #banner-section .card { background-color: rgba(255, 255, 255, 0.9); border-radius: 5px; }
 
-
-#about-section li{
-    padding: 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#home{
-    padding-top: 100px;
-}
-
-#home img{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    min-height: 600px;
-    color: #FFF;
-}
+#about-section li{ padding: 0; }
 ol { padding-left: 1em; }
+.card{ border: none !important; }
+.gray-effect{ -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ filter: grayscale(100%); }
+.primary-text-color{ color: #fff; }
+.primary-bg-color{ background: #4e4e4e; }
 
-.card{
-    border: none !important;
-}
-.gray-effect{
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
-}
-.primary-text-color{
-    color: #fff;
-}
-.primary-bg-color{
-    background: #4e4e4e;
-}
+.navbar { box-shadow: 2px 2px 5px #4e4e4e; opacity: 0.9; background: #fff; }
 
-.navbar {
-    box-shadow: 2px 2px 5px #4e4e4e;
-    opacity: 0.9;
-    background: #fff; }
+nav a{ font-size: 18px; font-weight: bold; }
+.bg-light{ background-color :#EBE9E9 !important; }
+ul li a{ color: #000 !important; border-bottom: 1px solid #EBE9E9; }
 
-nav a{
-    font-size: 18px;
-    font-weight: bold;
-}
-.bg-light{
-    background-color :#EBE9E9 !important;
- }
-ul li a{
-    color: #000 !important;
-    border-bottom: 1px solid #EBE9E9;
-}
+footer{ border-top: 1px solid #4e4e4e; padding-top: 10px; }
 
-.fas{
-    
-}
+#surgery ol li{ padding: 5px; font-size: 18px; }
 
-footer{
-    border-top: 1px solid #4e4e4e;
-    padding-top: 10px;
-}
+.jumbotron{ padding: 4rem 2rem 2rem; }
+
+.testimonial{ /*font-family: 'Atma'*/ font-family: 'Hind Siliguri', sans-serif;
+, cursive; line-height: 25px; letter-spacing: 0.8px; }
 
 
-#surgery ol li{
-    padding: 5px; 
-    font-size: 18px;
-}
+.bd-callout-warning { border-left-color: #4e4e4e !important; }
+.bd-callout { font-size: 18px; font-weight: 100; padding: 1.25rem; margin-bottom: 1.25rem; border: 1px solid #eee; border-left-width: .25rem; }
 
-.jumbotron{
-    padding: 4rem 2rem 2rem;
-}
+#map { height: 300px;  /* The height is 400 pixels */ width: 100%;  /* The width is the width of the web page */ }
 
-.testimonial{
-    line-height: 30px;
-    letter-spacing: 1px;
-}
-
-
-.bd-callout-warning {
-    border-left-color: #4e4e4e !important;
-}
-.bd-callout {
-    font-size: 18px;
-    font-weight: 100;
-    
-    padding: 1.25rem;
-    
-    margin-bottom: 1.25rem;
-    border: 1px solid #eee;
-    border-left-width: .25rem;
-    
-}
-
-.help-line {
-
-}
-
-#map {
-    
-    height: 246px;  /* The height is 400 pixels */
-    width: 100%;  /* The width is the width of the web page */
-
-}
-
-
-
-
-
-
-#banner-section p,
-#surgery-section p{
-   font-size: 20px;
-   padding-top: 10px;
-}
-
-
-
+#banner-section p, #surgery-section p{ font-size: 20px; padding-top: 10px; }
 
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
-    #banner-section .heading, #surgery-section .heading{
-        font-size:23px;
-    }
-    
-    #banner-section .surgery-points{
-        font-size:18px;
-    }
-    #banner-section .fas{
-        font-size:16px;
-    }
-    #banner-section{
-        min-height: 830px;
-    }
-    #banner-section .dark-overlay{
-        min-height: 830px;
-    }
+    #banner-section .heading, #surgery-section .heading{ font-size:24px; }
+    #banner-section .surgery-points{ font-size:18px; }
+    #banner-section .fas{ font-size:16px; }
+    #banner-section{ min-height: 780px; }
+    #banner-section .dark-overlay{ min-height: 780px; }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
-    #banner-section .heading, #surgery-section .heading{
-        font-size:26px;
-    }
-    #banner-section .surgery-points{
-        font-size:16px;
-    }
-    #banner-section .fas{
-        font-size:14px;
-    }
-    #banner-section{
-        min-height: 800px;
-    }
-    #banner-section .dark-overlay{
-        min-height: 800px;
-    }
-
-    #surgery-section2 .testimonial{
-        font-size: 20px !important;
-    }
-   
-    
+    #banner-section .heading, #surgery-section .heading{ font-size:26px; }
+    #banner-section .surgery-points{ font-size:16px; }
+    #banner-section .fas{ font-size:14px; }
+    #banner-section{ min-height: 845px; }
+    #banner-section .dark-overlay{ min-height: 845px; }
+    #surgery-section2 .testimonial{ font-size: 18px !important; }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
-    #banner-section .heading, #surgery-section .heading{
-        font-size:32px;
-    }
-    #banner-section{
-        min-height: 650px;
-    }
-    #banner-section .dark-overlay{
-        min-height: 650px;
-    }
-
-    #about-section .testimonial,
-    #surgery-section2 .testimonial{
-        font-size: 20px !important;
-    }
-    #about-section li{
-        font-size: 18px !important;
-    }
+    #banner-section .heading, #surgery-section .heading{ font-size:32px; }
+    #banner-section{ min-height: 700px; }
+    #banner-section .dark-overlay{ min-height: 700px; }
+    #about-section .testimonial, #surgery-section2 .testimonial{ font-size: 18px !important; }
+    #about-section li{ font-size: 18px !important; }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
-    #banner-section .heading, #surgery-section .heading{
-        font-size:42px;
-    }
-    #banner-section{
-        min-height: 650px;
-    }
-    #banner-section .dark-overlay{
-        min-height: 650px;
-    }
-    #about-section .testimonial,
-    #surgery-section2 .testimonial{
-        font-size: 22px !important;
-    }
-    
+    #banner-section .heading, #surgery-section .heading, #clinic-section .heading{  font-size:42px; }
+    #banner-section{  min-height: 715px; }
+    #banner-section .dark-overlay{ min-height: 715px; }
+    #about-section .testimonial, #surgery-section2 .testimonial{ font-size: 18px !important; }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
-    #banner-section .heading, #surgery-section .heading{
-        font-size:52px;
-    }
-
-    #banner-section{
-        min-height: 660px;
-    }
-    #banner-section .dark-overlay{
-        min-height: 660px;
-    }
-    #about-section .testimonial,
-    #surgery-section2 .testimonial{
-        font-size: 24px !important;
-    }
+    #banner-section .heading, #surgery-section .heading, #clinic-section .heading{ font-size:52px; line-height: 55px; }
+    #banner-section{ min-height: 660px; }
+    #banner-section .dark-overlay{ min-height: 660px; }
+    #about-section .testimonial, #surgery-section2 .testimonial{ font-size: 18px !important; }
 }
