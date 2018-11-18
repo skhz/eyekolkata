@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding= "UTF-8" ?> 
+<gallery>
+	<photo name="A glass of OJ">
+		<details URL="movie/clinic_system/images/1.jpg" category="Clinic Building DDEC"></details>		
+	</photo>	
+	<photo name="The Blue Sky Above">
+		<details URL="movie/clinic_system/images/4.jpg" category="Clinic Building DDEC"></details>		
+	</photo>	
+	<photo name="Latop SX 3000">
+		<details URL="movie/clinic_system/images/9.jpg" category="Reception/ Waiting Room"></details>		
+	</photo>	
+	<photo name="Router L6 Adv">
+		<details URL="movie/clinic_system/images/5.jpg" category="Reception/ Waiting Room"></details>		
+	</photo>	
+
+	<photo name="The Egg">
+		<details URL="movie/clinic_system/images/10.jpg" category="Reception/ Waiting Room"></details>		
+	</photo>	
+	<photo name="Latop SX 3000">
+		<details URL="movie/clinic_system/images/2.jpg" category="Optometric Test Room"></details>		
+	</photo>	
+		
+	<photo name="The Tranquil View">
+		<details URL="movie/clinic_system/images/3.jpg" category="Optometric Test Room"></details>		
+	</photo>	
+	<photo name="Greener on the Other Side">
+		<details URL="movie/clinic_system/images/8.jpg" category="Optometric Test Room"></details>		
+	</photo>	
+	<photo name="The Beauty within">
+		<details URL="movie/clinic_system/images/6.jpg" category="Consultation Room"></details>		
+	</photo>	
+	<photo name="The Glorious Rain">
+		<details URL="movie/clinic_system/images/7.jpg" category="Consultation Room"></details>		
+	</photo>	
+	
+</gallery>
+

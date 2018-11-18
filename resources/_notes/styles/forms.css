@@ -1,0 +1,13 @@
+form, fieldset, legend{margin:0; padding:0; border:none;}
+legend{display:none;}
+input, textarea, select{font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;}
+input[type=text]:focus{ background:#F6F6F6;}
+textarea:focus{ background:#F6F6F6;}
+/* ----------------------------------------------Forms in Content Area-------------------------------------*/
+#container #respond{display: block; width:100%;}
+#container #respond div{ border:1px dashed #333333; padding:3px; background:#535353; color:#FFFFFF; font-weight:bold;}
+#container #respond input{width:170px; padding:2px 7px 2px 7px; border:1px solid #CCCCCC; margin:5px 5px 0 0;}
+#container #respond input[type=text]{width:270px; padding:2px 7px 2px 7px; border:1px solid #CCCCCC; margin:5px 5px 0 0;}
+#container #respond textarea{width:180px; border:1px solid #CCCCCC; padding:2px; overflow:auto;}
+#container #respond p{margin:5px 0;}
+#container #respond #submit, #container #respond #reset{margin:0;padding:5px;color:#666666;background-color:#F7F7F7;border:1px solid #CCCCCC;cursor:pointer;}

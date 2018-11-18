@@ -1,0 +1,1249 @@
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant ADMIN - assumed 'ADMIN' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 7
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant INCLUDES - assumed 'INCLUDES' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 8
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 3
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 4
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 5
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 6
+[26-Nov-2017 11:40:56 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 7
+[26-Nov-2017 11:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant ADMIN - assumed 'ADMIN' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 7
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant INCLUDES - assumed 'INCLUDES' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 8
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 3
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 4
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 5
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 6
+[26-Nov-2017 11:48:40 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 7
+[26-Nov-2017 11:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant ADMIN - assumed 'ADMIN' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 7
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant INCLUDES - assumed 'INCLUDES' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 8
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 3
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 4
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 5
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 6
+[26-Nov-2017 11:48:41 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 7
+[26-Nov-2017 11:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:50:17 UTC] PHP Notice:  Use of undefined constant E_ERROE - assumed 'E_ERROE' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 2
+[26-Nov-2017 11:50:18 UTC] PHP Notice:  Use of undefined constant E_ERROE - assumed 'E_ERROE' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 2
+[26-Nov-2017 11:50:42 UTC] PHP Notice:  Use of undefined constant E_ERROE - assumed 'E_ERROE' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 2
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant ADMIN - assumed 'ADMIN' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 7
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant INCLUDES - assumed 'INCLUDES' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 8
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 3
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 4
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 5
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 6
+[26-Nov-2017 11:51:10 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 7
+[26-Nov-2017 11:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant ADMIN - assumed 'ADMIN' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 7
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant INCLUDES - assumed 'INCLUDES' in /home/x29eu8k7k6ve/public_html/includes/config.php on line 8
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 3
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 4
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 5
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 6
+[26-Nov-2017 11:51:11 UTC] PHP Notice:  Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 7
+[26-Nov-2017 11:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/index.php(2): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/faq.php(1): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/faq.php(1): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/faq.php(1): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php:9
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/includes/config.php(10): include_once()
+#1 /home/x29eu8k7k6ve/public_html/faq.php(1): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/db-con.php on line 9
+[26-Nov-2017 11:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[26-Nov-2017 11:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/index.php on line 12
+[25-Dec-2017 16:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Dec-2017 16:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Dec-2017 16:15:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Dec-2017 16:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[26-Dec-2017 05:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[27-Dec-2017 00:49:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[27-Dec-2017 02:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[27-Dec-2017 07:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[29-Dec-2017 06:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[01-Jan-2018 11:37:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Jan-2018 14:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[06-Jan-2018 17:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[06-Jan-2018 18:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Jan-2018 00:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[07-Jan-2018 02:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Jan-2018 23:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[08-Jan-2018 09:47:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[09-Jan-2018 08:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 05:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 12:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 12:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 19:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 20:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 22:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jan-2018 23:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[12-Jan-2018 15:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[13-Jan-2018 15:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[17-Jan-2018 20:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[19-Jan-2018 08:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[19-Jan-2018 10:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[23-Jan-2018 11:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[23-Jan-2018 13:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[24-Jan-2018 15:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[31-Jan-2018 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[04-Feb-2018 07:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[04-Feb-2018 09:21:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[06-Feb-2018 01:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[09-Feb-2018 10:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[14-Feb-2018 03:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[17-Feb-2018 08:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Feb-2018 10:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Feb-2018 06:05:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[21-Feb-2018 19:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[24-Feb-2018 13:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[24-Feb-2018 16:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[28-Feb-2018 10:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[01-Mar-2018 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[06-Mar-2018 12:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[07-Mar-2018 14:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Mar-2018 14:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Mar-2018 14:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[13-Mar-2018 08:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-Mar-2018 02:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Mar-2018 07:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Mar-2018 15:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Mar-2018 09:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Mar-2018 09:12:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[22-Mar-2018 17:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[28-Mar-2018 09:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[28-Mar-2018 17:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[03-Apr-2018 05:04:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Apr-2018 02:17:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[06-Apr-2018 05:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Apr-2018 20:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Apr-2018 08:09:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Apr-2018 07:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-Apr-2018 04:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[18-Apr-2018 00:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[19-Apr-2018 02:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[19-Apr-2018 06:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Apr-2018 01:12:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[26-Apr-2018 19:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[26-Apr-2018 19:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[26-Apr-2018 19:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[01-May-2018 10:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-May-2018 07:44:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[07-May-2018 22:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-May-2018 20:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[10-May-2018 18:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-May-2018 05:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[14-May-2018 07:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[15-May-2018 01:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-May-2018 20:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[21-May-2018 10:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[23-May-2018 20:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-May-2018 06:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[27-May-2018 03:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[29-May-2018 07:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[31-May-2018 16:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[02-Jun-2018 06:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[04-Jun-2018 07:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[09-Jun-2018 18:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[10-Jun-2018 20:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Jun-2018 12:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[12-Jun-2018 11:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[12-Jun-2018 21:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-Jun-2018 23:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[20-Jun-2018 10:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Jun-2018 16:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[22-Jun-2018 01:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[22-Jun-2018 22:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[24-Jun-2018 09:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[24-Jun-2018 09:48:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[24-Jun-2018 18:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Jun-2018 02:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[26-Jun-2018 10:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[28-Jun-2018 00:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[29-Jun-2018 20:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[01-Jul-2018 17:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[02-Jul-2018 02:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[02-Jul-2018 23:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-Jul-2018 09:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-Jul-2018 11:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[06-Jul-2018 21:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Jul-2018 12:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Jul-2018 21:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[09-Jul-2018 14:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[10-Jul-2018 06:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[10-Jul-2018 07:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[12-Jul-2018 23:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[12-Jul-2018 23:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[15-Jul-2018 09:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[18-Jul-2018 00:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[18-Jul-2018 12:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[19-Jul-2018 04:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[20-Jul-2018 10:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Jul-2018 09:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[24-Jul-2018 02:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[24-Jul-2018 23:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Jul-2018 21:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[27-Jul-2018 21:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[02-Aug-2018 09:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[02-Aug-2018 11:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[05-Aug-2018 17:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Aug-2018 22:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[07-Aug-2018 09:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Aug-2018 15:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[09-Aug-2018 19:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[10-Aug-2018 12:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[14-Aug-2018 17:34:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[14-Aug-2018 20:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[15-Aug-2018 14:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[16-Aug-2018 15:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[16-Aug-2018 15:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[16-Aug-2018 15:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-Aug-2018 06:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[17-Aug-2018 11:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[19-Aug-2018 10:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Aug-2018 02:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[22-Aug-2018 23:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[23-Aug-2018 07:23:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[23-Aug-2018 12:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[23-Aug-2018 15:38:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[25-Aug-2018 23:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[26-Aug-2018 07:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[28-Aug-2018 18:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[29-Aug-2018 14:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[02-Sep-2018 09:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-Sep-2018 12:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-Sep-2018 16:28:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[04-Sep-2018 19:45:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[06-Sep-2018 14:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[08-Sep-2018 15:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Sep-2018 17:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Sep-2018 21:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[09-Sep-2018 11:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[10-Sep-2018 15:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[10-Sep-2018 23:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[11-Sep-2018 01:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[12-Sep-2018 00:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[13-Sep-2018 17:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[17-Sep-2018 23:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[18-Sep-2018 04:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[18-Sep-2018 17:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[19-Sep-2018 08:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[19-Sep-2018 08:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[19-Sep-2018 08:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[20-Sep-2018 11:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[22-Sep-2018 00:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[23-Sep-2018 00:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[25-Sep-2018 16:33:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[27-Sep-2018 16:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[02-Oct-2018 03:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[03-Oct-2018 04:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[04-Oct-2018 05:33:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[08-Oct-2018 17:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[09-Oct-2018 15:41:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[10-Oct-2018 18:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[14-Oct-2018 16:34:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[16-Oct-2018 05:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[16-Oct-2018 07:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[21-Oct-2018 22:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[24-Oct-2018 23:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[28-Oct-2018 19:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[29-Oct-2018 13:25:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[29-Oct-2018 20:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[30-Oct-2018 03:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[30-Oct-2018 22:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[31-Oct-2018 15:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[04-Nov-2018 01:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Nov-2018 01:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Nov-2018 01:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[05-Nov-2018 01:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[06-Nov-2018 16:03:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/hwnd_email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/hwnd_email.php on line 26
+[08-Nov-2018 19:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[08-Nov-2018 22:39:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[11-Nov-2018 21:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[12-Nov-2018 12:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[13-Nov-2018 10:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[13-Nov-2018 11:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
+[14-Nov-2018 18:50:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php:45
+Stack trace:
+#0 /home/x29eu8k7k6ve/public_html/faq.php(4): FAQ->FAQArray()
+#1 /home/x29eu8k7k6ve/public_html/index.php(32): include_once('/home/x29eu8k7k...')
+#2 {main}
+  thrown in /home/x29eu8k7k6ve/public_html/admin/includes/classes/FAQ.class.php on line 45
